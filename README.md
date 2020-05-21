@@ -35,6 +35,8 @@ The process in how I created Cloud-1:
       - CDN Type: Origin Pull/Mirror Amazon Cloudfront
       - Access Key and Secret key credentials from IAM
       - Through W3 setup you create the Cloudfront Distrobution which setup on aws platform
-     
+      
+      
+# Cloud1 Schema     
 <img width="824" alt="Screenshot 2020-05-21 at 17 05 49" src="https://user-images.githubusercontent.com/39004363/82573638-50b23280-9b86-11ea-90f6-c938ff832f61.png">
 
