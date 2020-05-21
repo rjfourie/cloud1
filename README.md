@@ -1,6 +1,7 @@
 # cloud1
 
-# my process in how I did Cloud-1
+The process in how created Cloud-1:
+
 - Launch RDS Database with MySQL engine
    - containing:
       - Multi AZ Deployment (synchronously replicates data to standby instance)
